@@ -4,6 +4,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifneq ($(filter kunlun2 jd2019,$(TARGET_DEVICE)),)
+ifneq ($(filter kunlun2 kunlun2_row jd2019,$(TARGET_DEVICE)),)
 
 endif
