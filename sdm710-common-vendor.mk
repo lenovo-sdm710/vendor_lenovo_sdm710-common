@@ -526,6 +526,7 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/sdm710-common/proprietary/vendor/lib/libC2D2.so:$(TARGET_COPY_OUT_VENDOR)/lib/libC2D2.so \
     vendor/lenovo/sdm710-common/proprietary/vendor/lib/libCB.so:$(TARGET_COPY_OUT_VENDOR)/lib/libCB.so \
     vendor/lenovo/sdm710-common/proprietary/vendor/lib/libFileMux_proprietary.so:$(TARGET_COPY_OUT_VENDOR)/lib/libFileMux_proprietary.so \
+    vendor/lenovo/sdm710-common/proprietary/vendor/lib/libFileMux_proprietary.so:$(TARGET_COPY_OUT_VENDOR)/lib/libFileMux_proprietary.so \
     vendor/lenovo/sdm710-common/proprietary/vendor/lib/libFlacSwDec.so:$(TARGET_COPY_OUT_VENDOR)/lib/libFlacSwDec.so \
     vendor/lenovo/sdm710-common/proprietary/vendor/lib/libGPQTEEC_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib/libGPQTEEC_vendor.so \
     vendor/lenovo/sdm710-common/proprietary/vendor/lib/libGPTEE_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib/libGPTEE_vendor.so \
@@ -720,7 +721,6 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/sdm710-common/proprietary/vendor/lib/libwa_opticalzoomfactor.so:$(TARGET_COPY_OUT_VENDOR)/lib/libwa_opticalzoomfactor.so \
     vendor/lenovo/sdm710-common/proprietary/vendor/lib/libwa_rtdof.so:$(TARGET_COPY_OUT_VENDOR)/lib/libwa_rtdof.so \
     vendor/lenovo/sdm710-common/proprietary/vendor/lib/libwa_sat.so:$(TARGET_COPY_OUT_VENDOR)/lib/libwa_sat.so \
-    vendor/lenovo/sdm710-common/proprietary/vendor/lib/libwfdaac_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib/libwfdaac_vendor.so \
     vendor/lenovo/sdm710-common/proprietary/vendor/lib/libwfdcodecv4l2_proprietary.so:$(TARGET_COPY_OUT_VENDOR)/lib/libwfdcodecv4l2_proprietary.so \
     vendor/lenovo/sdm710-common/proprietary/vendor/lib/libwfdcommonutils_proprietary.so:$(TARGET_COPY_OUT_VENDOR)/lib/libwfdcommonutils_proprietary.so \
     vendor/lenovo/sdm710-common/proprietary/vendor/lib/libwfdconfigutils_proprietary.so:$(TARGET_COPY_OUT_VENDOR)/lib/libwfdconfigutils_proprietary.so \
