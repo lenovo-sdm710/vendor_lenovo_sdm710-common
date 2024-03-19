@@ -949,6 +949,7 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     libantradio \
+    libplatformconfig \
     vendor.qti.hardware.fm@1.0 \
     CneApp \
     IWlanService \
